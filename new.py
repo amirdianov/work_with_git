@@ -9,3 +9,4 @@ if operation == '*':
     print(a * b)
 if operation == '/':
     print(a / b)
+print('Mini calc')
